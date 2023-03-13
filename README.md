@@ -1,2 +1,2 @@
 # AIN214_Assignments
-Programmin Assignments that i made for AIN214 course.
+Programming Assignments that I made for AIN214 course.
